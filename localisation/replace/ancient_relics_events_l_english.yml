@@ -1,0 +1,7 @@
+﻿l_english:
+ NAME_Grunur:0 "Grunur"
+ NAME_Grunur_Prime:0 "Grunur Prime"
+ NAME_Nu_Baol:0 "Nu-Baol"
+ NAME_planetary_mechanocalibrator:1 "C.A.R.E"
+ NAME_care_defensive_protocols:0 "C.A.R.E Mega-Warform"
+ NAME_planetary_mechanocalibrator_species:0 "$NAME_planetary_mechanocalibrator$ $NAME_Guardian$"

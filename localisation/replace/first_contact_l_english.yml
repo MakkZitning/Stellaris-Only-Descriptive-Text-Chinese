@@ -1,0 +1,67 @@
+﻿l_english:
+ NAME_MSI_country:0 "Minamar Specialized Industries"
+ NAME_MSI_country_initials:0 "MSI"
+ NAME_MSI_species:0 "Olinbar"
+ NAME_MSI_species_plural:0 "Olinbars"
+ NAME_Debt_Collectors:0 "Debt Collectors"
+ NAME_Debt_Collectors_Country:0 "Interstellar Credit Management Company"
+ NAME_Haven:0 "Haven" #Humanoid
+ NAME_Burrow:0 "Burrow" #Reptile
+ NAME_Den:0 "Den" #Mammalian
+ NAME_Nest:0 "Nest" #Avian
+ NAME_Hidden_Web:0 "Hidden Web" #Arthropod
+ NAME_Mantle:0 "Mantle" #Mollusc
+ NAME_Hyphae:0 "Hyphae" #Fungoid
+ NAME_Pyrophyte:0 "Pyrophyte" #Plantoid
+ NAME_Geode:0 "Geode" #Lithoid
+ NAME_Necropolis:0 "Necropolis" #Necroid
+ NAME_Aquatic:0 "Anemone" # Aquatic
+ NAME_Bunker:0 "Bunker" #Toxoid
+ NAME_fotd_seperatists:0 "[fotd_country.GetSpeciesName] Commune"
+ NAME_fotd_seperatists_fleet:0 "[root.capital_scope.GetName] Defense Fleet"
+ NAME_fotd_corvette_1:0 "Defense Corvette"
+ NAME_fotd_corvette_2:0 "$NAME_fotd_corvette_1$"
+ NAME_fotd_corvette_3:0 "$NAME_fotd_corvette_1$"
+ NAME_fotd_corvette_4:0 "$NAME_fotd_corvette_1$"
+ NAME_fotd_frigate_1:0 "Defense Frigate"
+ NAME_fotd_frigate_2:0 "$NAME_fotd_frigate_1$"
+ NAME_fotd_frigate_3:0 "$NAME_fotd_frigate_1$"
+ NAME_fotd_frigate_4:0 "$NAME_fotd_frigate_1$"
+ NAME_fotd_destroyer_2:0 "Defense Destroyer"
+ NAME_fotd_destroyer_3:0 "$NAME_fotd_destroyer_2$"
+ NAME_fotd_destroyer_4:0 "$NAME_fotd_destroyer_2$"
+ NAME_fotd_cruiser_3:0 "Defense Cruiser"
+ NAME_fotd_cruiser_4:0 "$NAME_fotd_cruiser_3$"
+ NAME_Divider:0 "Divider"
+ NAME_Fevor:0 "Fevor"
+ NAME_fotd_Hunters:0 "Fevorian Survivors"
+ NAME_fotd_Hunter_species:0 "Fevorian"
+ NAME_fotd_Hunter_plural:0 "Fevorians"
+ NAME_Guest:0 "The Many-Tentacled One"
+ NAME_Pre_FTL_Chemical_Ship:0 "$pre_ftl_chemical_ship$"
+ NAME_Pre_FTL_Laser_Ship:0 "$pre_ftl_laser_ship$"
+ NAME_subterranean_task_force:0 "Subterranean Invasion Defense Force"
+ NAME_Explorer_Vessel:0 "$explorer_vessel$"
+ NAME_Engineer_Vessel:0 "$engineer_vessel$"
+ NAME_Helito:0 "Helito"
+ NAME_Helito_A:0 "Helito A"
+ NAME_Helito_B:0 "Helito B"
+ NAME_Helito_I:0 "Helito I"
+ NAME_Helito_II:0 "Helito II"
+ NAME_Helito_III:0 "Helito III"
+ NAME_Helito_IV:0 "Helito IV"
+ NAME_Helito_V:0 "Helito V"
+ NAME_Helito_VI:0 "Helito VI"
+ NAME_Dacha:0 "Dacha"
+ NAME_Dacha_A:0 "Dacha A"
+ NAME_Dacha_B:0 "Dacha B"
+ NAME_Dacha_C:0 "Dacha C"
+ NAME_Dacha_I:0 "Dacha I"
+ NAME_Dacha_II:0 "Dacha II"
+ NAME_Dacha_III:0 "Dacha III"
+ NAME_Dacha_IV:0 "Dacha IV"
+ NAME_Sol_X:0 "Sol X"
+ NAME_Habinte:0 "Habinte"
+ NAME_Habinte_plural:0 "Habintes"
+ NAME_Habinte_adj:0 "Habintine"
+ NAME_Habinte_Unified_Worlds:0 "Habinte Unified Worlds"
