@@ -1,11 +1,11 @@
 ﻿l_english:
  NAME_VALUE_FORMAT:0 "$NAME$: $VALUE$"
  NAME_SECTOR:0 "$SECTOR$ Sector"
- NAME_Rampaging_Forest:0 "Rampaging Forest"
+#  NAME_Rampaging_Forest:0 "Rampaging Forest"
  NAME_TAKEN:0 "Your name is taken. Please leave and select another."
  NAME_LIST:0 "Name List"
  NAME_LISTS_EXAMPLES:0 "Examples"
- NAME_AND_CLASS:0 "Name & Class"
+#  NAME_AND_CLASS:0 "Name & Class"
 
  PLANET_NAME_FORMAT:0 "$PARENT$ $NUMERAL$"
  SUBPLANET_NAME_FORMAT:0 "$PARENT$$NUMERAL$"
